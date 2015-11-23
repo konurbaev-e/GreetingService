@@ -2,7 +2,7 @@ package org.konurbaev.greet.impl;
 
 import org.konurbaev.greet.Greeting;
 
-public class GoodbyeGreeting implements Greeting {
+class GoodbyeGreeting implements Greeting {
 
     private final long id;
     private final String content;
